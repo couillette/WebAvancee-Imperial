@@ -1,0 +1,2 @@
+serviceClass: com.imperialIHM.client.GreetingService
+path: EDAFD89A7C1643F58346F00EC8C7BAD2.gwt.rpc
